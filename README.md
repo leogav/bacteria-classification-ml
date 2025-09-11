@@ -34,4 +34,12 @@ Este projeto faz parte do meu **Mestrado em Computação Aplicada (USP)** e tem 
 ## Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/bacteria-classification-ml.git
+   git clone https://github.com/leogav/bacteria-classification-ml.git
+   cd bacteria-classification-ml
+   
+2. Instale as dependências:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Abra os notebooks na pasta notebooks/ no Jupyter Notebook ou VSCode.
